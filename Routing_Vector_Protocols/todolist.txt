@@ -1,0 +1,6 @@
+Sending file data needs to be changed for last data packet
+
+Checklist of commands:
+SEND_FILE
+SEND_FILE_STATS
+Multiple timers implementation check
